@@ -10,6 +10,12 @@ def watch(b):
     if b > len(name) - 1:
         print("error id")
         return
+    Elif b == "all":
+        For I in range (Len(name)):
+            print(name[i])
+            print(surname[i])
+            print(birtday[i])
+        return
     print(name[b])
     print(surname[b])
     print(birtday[b])
@@ -51,10 +57,10 @@ def sort(a):
 while "true":
     task = input("choose a task:print, append, dellit, sort\n")
     if task == "print":
-        i = int(input("wrait id:"))
+        i = int(input("writ id or all:"))
         watch(i)
     elif task == "append":
-        a, b, c = input("wrait info:").split(' ')
+        a, b, c = input("writ info:").split(' ')
         plus(a, b, c)
     elif task == "dellit":
         i = int(input("wrait id:"))

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df9ca5fe-bbad-4205-9ff5-1cbd6c152751" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../20-09-04/17/17.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-09-04/17/17.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-09-04/17/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-09-08/1/1.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-09-08/1/1.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-09-08/1/1.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-09-08/1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26.09.2020/ЕГЭ 24 №31/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26.09.2020/ЕГЭ 24 №31/31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ЕГЭ №27/03-11-20/1/1.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ЕГЭ №27/03-11-20/1/1.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ЕГЭ №27/03-11-20/1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ЕГЭ №27/03-12-20/2/2.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ЕГЭ №27/03-12-20/2/2.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ЕГЭ №27/03-12-20/2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ЕГЭ/20-09-29/ЕГЭ25/18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-12-19/bin/Debug/05-12-19.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-12-19/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-12-19/№16/A/bin/Debug/A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-12-19/№16/A/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-12-19/№16/b/bin/Debug/b.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-12-19/№16/b/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-12-19/№17/A/bin/Debug/A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-12-19/№17/A/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-12-19/№18/a/bin/Debug/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-12-19/№18/a/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-12-19/№19/b/bin/Debug/b.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-12-19/№19/b/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/02-20-20/Новый текстовый документ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/05-12-19/05-12-19.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/05-12-19/05-12-19.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/05-12-19/05-12-19.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/05-12-19/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/05-12-19/№10.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/05-12-19/№8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/TXLib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/animationCB/TXLib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/animationCB/animationCB.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/animationCB/animationCB.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/animationCB/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.1/v1.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.1/v1.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.1/Новая папка/TXLib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.1/Новая папка/animation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.1/Новая папка/animation.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.1/Новая папка/animation.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.1/Новая папка/animation.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.1/Новая папка/animation.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.2/TXLib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.2/animation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.2/animation.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.2/animation.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.2/animation.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.2/animation.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.2/animation.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/v1.2/animation.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/Новая папка/animation/TXLib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/Новая папка/animation/animation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/Новая папка/animation/animation.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/Новая папка/animation/animation.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/Новая папка/animation/animation.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/animation/Новая папка/animation/animation.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№16/A/A.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№16/A/A.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№16/A/A.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№16/A/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№16/b/b.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№16/b/b.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№16/b/b.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№16/b/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№17/A/A.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№17/A/A.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№17/A/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№18/a/a.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№18/a/a.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№18/a/a.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№18/a/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№19/a/a.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№19/a/a.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№19/a/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№19/b/b.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№19/b/b.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№19/b/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№19/g/g.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№19/g/g.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№19/g/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№19/v/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№19/v/v.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№19/v/v.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/a/a.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/a/a.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/a/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/b/b.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/b/b.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/b/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/c/c/c.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/c/c/c.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/c/c/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/d/d.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/d/d.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/d/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/e/e.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/e/e.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/e/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/f/f.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/f/f.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/f/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/g/g.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/g/g.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/g/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/i/i.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/i/i.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/i/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/j/j.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/j/j.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/07-12-19/№20/j/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/11-12-19/16/16.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/11-12-19/16/16.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/11-12-19/16/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/test/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/test/test.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/test/test.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/№4/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/№4/№4.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/№4/№4.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/№4/№4.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/№5/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/№5/№5.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/№5/№5.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/№5/№5.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/№6/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/№6/№6.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/№6/№6.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/12-12-19/№6/№6.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/13-01-20/tree pifagor/TXLib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/13-01-20/tree pifagor/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/13-01-20/tree pifagor/tree pifagor.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/13-01-20/tree pifagor/tree pifagor.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№11/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№11/№11.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№11/№11.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№7/doxygen/doxyfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№7/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№7/№7.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№7/№7.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№7/№7.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№8/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№8/№8.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№8/№8.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№8/№8.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№9/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№9/№9.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№9/№9.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/14-12-12/№9/№9.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№10/TXLib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№10/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№10/№10.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№10/№10.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№10/№10.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№8/TXLib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№8/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№8/№8.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№8/№8.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№8/№8.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№9/TXLib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№9/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№9/№9.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/15-01-20/№9/№9.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#10/#10.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#10/#10.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#10/#10.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#10/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#11/#11.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#11/#11.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#11/#11.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#11/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#7/#7.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#7/#7.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#7/#7.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#7/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#8/#8.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#8/#8.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#8/#8.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#8/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#9/#9.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#9/#9.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#9/#9.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/16-01-20/#9/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/19-12-19/№9/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/19-12-19/№9/№9.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/19-12-19/№9/№9.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/19-12-19/№9/№9.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/20-02-19/21, 26, 32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/23-01-20/№10/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/23-01-20/№10/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/23-01-20/№10/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/23-01-20/№10/№10.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/23-01-20/№7/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/23-01-20/№7/№7.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/23-01-20/№7/№7.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/23-01-20/№8/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/23-01-20/№8/№8.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/23-01-20/№8/№8.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/23-01-20/№8/№8.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/29-01-20/11/11.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/29-01-20/11/11.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/29-01-20/11/11.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/29-01-20/11/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/29-01-20/12/12.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/29-01-20/12/12.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/29-01-20/12/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/29-01-20/13/13.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/29-01-20/13/13.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/29-01-20/13/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/14/14.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/14/14.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/14/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/15/15.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/15/15.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/15/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/16/16.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/16/16.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/16/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/17/17.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/17/17.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/17/17.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/17/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/18/18.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/18/18.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/18/18.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/18/18.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/18/18.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/20/20.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/20/20.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/20/20.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/20/20.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/20/20.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/21/21.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/21/21.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/21/21.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/21/21.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/21/21.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/22/22.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/22/22.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/22/22.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/22/22.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/22/22.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/25/25.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/25/25.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-01-20/25/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-11-19/30-11-19.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-11-19/30-11-19.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-11-19/30-11-19.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-11-19/TXLib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 класс/30-11-19/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30-11-19/bin/Debug/.vs/30-11-19/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30-11-19/bin/Debug/30-11-19.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30-11-19/obj/Debug/30-11-19/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30-11-19/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ЕГЭ №27/02-27-20/2/2.layout" beforeDir="false" afterPath="$PROJECT_DIR$/../ЕГЭ №27/02-27-20/2/2.layout" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-315575896">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1410" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1410" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/5.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1004" />
+    <option name="height" value="684" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="20-09-29" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20-09-29" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="20-09-29" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df9ca5fe-bbad-4205-9ff5-1cbd6c152751" name="Default Changelist" comment="" />
+      <created>1601367572618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601367572618</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1032" height="732" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24227318" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32789558" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="65" column="22" lean-forward="true" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+          <folding>
+            <marker date="1601535487281" expanded="true" signature="475:1635" ph="..." />
+            <marker date="1601535487281" expanded="true" signature="689:1635" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

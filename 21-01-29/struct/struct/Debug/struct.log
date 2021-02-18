@@ -1,0 +1,20 @@
+﻿  struct.cpp
+D:\DATA\duck\21-01-29\struct\struct\struct.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DATA\duck\21-01-29\struct\struct\struct.cpp(55,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DATA\duck\21-01-29\struct\struct\struct.cpp(65,13): error C2440: return: невозможно преобразовать "std::vector<People,std::allocator<People>>" в "People"
+D:\DATA\duck\21-01-29\struct\struct\struct.cpp(65,5): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+D:\DATA\duck\21-01-29\struct\struct\struct.cpp(88,29): error C2679: бинарный "=": не найден оператор, принимающий правый операнд типа "People" (или приемлемое преобразование отсутствует)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(1175,13): message : может быть "std::vector<People,std::allocator<People>> &std::vector<People,std::allocator<People>>::operator =(std::initializer_list<_Ty>)"
+          with
+          [
+              _Ty=People
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(1167,13): message : или       "std::vector<People,std::allocator<People>> &std::vector<People,std::allocator<People>>::operator =(const std::vector<People,std::allocator<People>> &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(664,13): message : или       "std::vector<People,std::allocator<People>> &std::vector<People,std::allocator<People>>::operator =(std::vector<People,std::allocator<People>> &&) noexcept(<expr>)"
+D:\DATA\duck\21-01-29\struct\struct\struct.cpp(88,29): message : при попытке сопоставить список аргументов "(std::vector<People,std::allocator<People>>, People)"
+D:\DATA\duck\21-01-29\struct\struct\struct.cpp(91,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DATA\duck\21-01-29\struct\struct\struct.cpp(98,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DATA\duck\21-01-29\struct\struct\struct.cpp(105,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DATA\duck\21-01-29\struct\struct\struct.cpp(112,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DATA\duck\21-01-29\struct\struct\struct.cpp(120,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DATA\duck\21-01-29\struct\struct\struct.cpp(132,24): warning C4018: >: несоответствие типов со знаком и без знака

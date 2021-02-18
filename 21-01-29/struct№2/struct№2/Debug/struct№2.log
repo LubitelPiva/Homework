@@ -1,0 +1,7 @@
+﻿  struct№2.cpp
+D:\DATA\duck\21-01-29\struct№2\struct№2\struct№2.cpp(83,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DATA\duck\21-01-29\struct№2\struct№2\struct№2.cpp(103,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DATA\duck\21-01-29\struct№2\struct№2\struct№2.cpp(123,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DATA\duck\21-01-29\struct№2\struct№2\struct№2.cpp(131,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DATA\duck\21-01-29\struct№2\struct№2\struct№2.cpp(136,23): warning C4018: <: несоответствие типов со знаком и без знака
+  struct№2.vcxproj -> D:\DATA\duck\21-01-29\struct№2\Debug\struct№2.exe

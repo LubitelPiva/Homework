@@ -1,3 +1,12 @@
+def math_in_list(a):
+    b = []
+    for i in a:
+        if len(b) == 0 or i in "*/+-()" or b[-1] in "*/+-()":
+            b.append(i)
+        else:
+            b[-1] += i
+    return b
+
 def infixToPostfix(infixexpr):
     prec = {}
     prec["*"] = 3
@@ -7,7 +16,7 @@ def infixToPostfix(infixexpr):
     prec["("] = 1
     opStack = []
     postfixList = []
-    tokenList = infixexpr.split()
+    tokenList = math_in_list(infixexpr)
 
     for token in tokenList:
         if token in "ABCDEFGHIJKLMNOPQRSTUVWXYZ" or token[0] in "0123456789":

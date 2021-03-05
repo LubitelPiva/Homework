@@ -8,21 +8,31 @@ def getNode(strmath):
     a = Node()
     fist = strmath.find('(')
     en = strmath.rfind(')')
-    if fist == 0 and en == len(strmath)-1:
-        b = strmath[1:-2]
-        fist = strmath.find('(')
-        en = strmath.rfind(')')
-    b = strmath[:fist] + strmath[en+1:]
-    if '+' in b or '-' in b:
-        p = max(b.find("+"), b.find("-"))
-    elif '*' in b or '/' in b:
-        p = max(b.find("*"), b.find("/"))
-    else:
-        a.value = b
-        return a
-    a.value = b[p]
-    a.left = getNode(b[:p])
-    a.right = getNode(b[p+1:])
+    if fist == 0 and en == len(strmath) - 1:
+        strmath = strmath[1:-1]
+    skobki = 0
+    p = 0
+    p1 = 0
+    for i in range(len(strmath)):
+        if strmath[i] == '(':
+            skobki += 1
+        elif strmath[i] == ')':
+            skobki -= 1
+        elif skobki > 0:
+            pass
+        elif strmath[i] in "-+":
+            p = i
+        elif strmath[i] in "*/":
+            p1 = i
+    if p == 0:
+        if p1 == 0:
+            a.value = strmath
+            return a
+        else:
+            p = p1
+    a.value = strmath[p]
+    a.left = getNode(strmath[:p])
+    a.right = getNode(strmath[p+1:])
     return a
 
 
@@ -38,7 +48,6 @@ def stupid_math(a, b, c):
 
 
 def mathNode(arifm):
-    print(arifm.value)
     if arifm.value in "/*-+":
         return stupid_math(int(mathNode(arifm.left)), arifm.value, int(mathNode(arifm.right)))
     else:
